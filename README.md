@@ -1,8 +1,8 @@
 #san3a Graduation Project without clean code or clean architecture
-this app have many issues,
+## this app have many issues,
     now we have an ui design and we are going to build this app with clean architecture
 
-A new Flutter project.
+## A new Flutter project.
 
 ## Getting Started
 
